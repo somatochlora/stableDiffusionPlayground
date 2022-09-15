@@ -1,1 +1,1 @@
-# stableDiffusionPlayground
+Very basic html and JS for interacting with computerender.com api for stable diffusion
